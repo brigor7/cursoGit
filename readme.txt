@@ -1,1 +1,1 @@
-Exercicio inicial sobre git
+Leia este arquivo antes de iniciar a alteração do sistema
